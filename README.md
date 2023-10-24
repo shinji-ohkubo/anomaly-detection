@@ -2,6 +2,14 @@
 
 [入門 機械学習による異常検知―Rによる実践ガイド ](http://www.coronasha.co.jp/np/isbn/9784339024913/)をPythonで実装
 
+## 1 環境構築
+python 3.8
+numpy
+pandas
+matplotlib 
+scipy
+
+
 ## 2 正規分布に従うデータからの異常検知
 
 ホテリング理論に基づく外れ値検知。
